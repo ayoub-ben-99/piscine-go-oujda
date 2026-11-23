@@ -195,9 +195,7 @@ My checkpoint exam solutions are maintained in a separate repository:
 
 ## 👤 Author
 
-**abenrkia** — Zone01 Oujda
-
-- GitHub: [@abenrkia](https://github.com/abenrkia)
+- GitHub: [@ayoub-ben-99](https://github.com/ayoub-ben-99)
 - School: [Zone01 Oujda](https://learn.zone01oujda.ma)
 
 ---
